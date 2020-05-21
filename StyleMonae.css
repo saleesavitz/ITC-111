@@ -1,0 +1,19 @@
+body {
+    background-image: url("Monaescream.jpg");
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
+li {
+    list-style-type: none;
+    background-color: rgba(117, 190, 218, 0.5);
+}
+p.ex1 {
+    padding-top: 100px;
+  }
